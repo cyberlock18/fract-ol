@@ -1,3 +1,5 @@
+
+![fractol](fractol.PNG)
 # fract-ol
 
 An interactive fractal renderer built in C as part of the 42 school curriculum. It uses the MiniLibX graphics library to display and explore the **Mandelbrot** and **Julia** sets in real time.
