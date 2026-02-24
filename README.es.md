@@ -1,3 +1,4 @@
+![fractol](fractol.PNG)
 # fract-ol
 
 Un renderizador de fractales interactivo desarrollado en C como parte del currículo de la escuela 42. Usa la biblioteca gráfica MiniLibX para mostrar y explorar los conjuntos de **Mandelbrot** y **Julia** en tiempo real.
